@@ -217,6 +217,9 @@ dmypy.json
 
 # mypy
 
+# IDEA 
+.idea
+
 # Pyre type checker
 
 ### VirtualEnv ###
